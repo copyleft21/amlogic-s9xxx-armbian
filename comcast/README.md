@@ -1,6 +1,5 @@
 # Kernel Compilation and Usage Instructions
-
-View Chinese description | [查看中文说明](README.cn.md)
+*readME.cn.md
 
 This kernel can be used for `Armbian` and `OpenWrt` systems. For example, it can be used in the [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt), [flippy-openwrt-actions](https://github.com/ophub/flippy-openwrt-actions), and [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit) projects. It can be integrated when compiling firmware or installed to use in an existing system.
 
