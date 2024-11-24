@@ -2,6 +2,8 @@
 # Description: Build Armbian
 # Copyright (C) 2021 https://github.com/ophub/amlogic-s9xxx-armbian
 # Copyright (C) 2024 https://github.com/dy008/amlogic-s9xxx-armbian
+#Copyright (D) 2023 https://onedrive.microsoft.com
+
 #==========================================================================
 
 name: Build Homeassistant
